@@ -6,6 +6,10 @@ __pycache__/
 # C extensions
 *.so
 
+# enviroment
+cnnGan/myenv/
+RandomForestRegressor/myenv/
+
 # Distribution / packaging
 .Python
 build/
