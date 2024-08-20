@@ -9,6 +9,8 @@ __pycache__/
 # enviroment
 cnnGan/myenv/
 RandomForestRegressor/myenv/
+DeteccionFraudeRegresioLogistica/fraudeRegresion
+englishCourseAgent/englishCourse/
 
 # Distribution / packaging
 .Python
