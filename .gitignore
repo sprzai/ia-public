@@ -12,6 +12,9 @@ RandomForestRegressor/myenv/
 DeteccionFraudeRegresioLogistica/fraudeRegresion
 englishCourseAgent/englishCourse/
 
+cnnGan/generated_images/
+cnnGan/models/
+
 # Distribution / packaging
 .Python
 build/
