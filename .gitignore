@@ -8,9 +8,14 @@ __pycache__/
 
 # enviroment
 cnnGan/myenv/
+cnnGan/.env
 RandomForestRegressor/myenv/
 DeteccionFraudeRegresioLogistica/fraudeRegresion
+DeteccionFraudeRegresioLogistica/.env
 englishCourseAgent/englishCourse/
+englishCourseAgent/.env
+agenteScraping/myenv
+agenteScraping/.env
 
 cnnGan/generated_images/
 cnnGan/models/
